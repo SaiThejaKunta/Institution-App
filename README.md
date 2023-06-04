@@ -1,6 +1,6 @@
 # Institution-App
-Problem: Accommodating all student services at a place is difficult. Information is spread out on multiple websites. Right now, there is no application dedicated to students in the university.
-Solution: We built an android app that contains basic details about the student. Such as, attendance, day-to-day schedule, important documents. This app also enables the users to upload documents, if any required. 
+<h1>Problem:</h1> Accommodating all student services at a place is difficult. Information is spread out on multiple websites. Right now, there is no application dedicated to students in the university.
+<h1>Solution:</h1> We built an android app that contains basic details about the student. Such as, attendance, day-to-day schedule, important documents. This app also enables the users to upload documents, if any required. 
 
 Functionality and Concepts: 
 Some of the functionalities and concepts used are:
